@@ -1,4 +1,4 @@
-# grep_sed_awk_biohpc
+# grep, regular expressions, sed, awk
 
 A small set of tutorials covering the basics of grep, sed, and awk.
 
